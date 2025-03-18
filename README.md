@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osman Kaya</h1>
-<h3 align="center">Co-Founder of 411 Games and passionate game developer</h3>
+<h3 align="center">Co-Founder of 411 Software and passionate software developer</h3>
 
 - 💬 Ask me about **Startups, Unity, C#**
 
